@@ -394,14 +394,6 @@ Deployment on real public-road traffic signals would require appropriate hardwar
 
 ---
 
-## 🥇 Achievement
-
-**1st Prize — 24-Hour Hackathon**
-
-The project demonstrates how AI, computer vision, real-time communication, and adaptive decision logic can be combined to build a responsive traffic-management platform.
-
----
-
 ## ☕ Built With
 
 **• Computer Vision • React • Node.js • Python • Socket.IO • SQLite**
