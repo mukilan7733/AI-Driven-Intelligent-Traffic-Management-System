@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/First_Prize-Winner-gold?style=for-the-badge&logo=trophy" alt="First Prize Winner" />
-  <img src="https://img.shields.io/badge/Built_in-36_Hours-blue?style=for-the-badge&logo=clock" alt="24 Hour Hackathon" />
+  <img src="https://img.shields.io/badge/Built_in-24_Hours-blue?style=for-the-badge&logo=clock" alt="24 Hour Hackathon" />
   <br />
   <h3>🥇 1st Prize Winner — 24-Hour Hackathon Project</h3>
   <p>A resilient system that dynamically handles real-time traffic signaling and emergency vehicle priority.</p>
